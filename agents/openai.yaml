@@ -1,0 +1,7 @@
+interface:
+  display_name: "SpaceClaim"
+  short_description: "Generate and run SpaceClaim automated modeling code."
+  default_prompt: "Use $spaceclaim to convert my CAD modeling requirements into SpaceClaim automation code."
+
+policy:
+  allow_implicit_invocation: true
